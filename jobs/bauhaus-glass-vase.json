@@ -1,0 +1,16 @@
+{
+  "product": "bauhaus-glass-vase",
+  "images": [
+    "https://cf.cjdropshipping.com/1219d213-a320-4357-99fe-850b1206c324.jpg",
+    "https://cf.cjdropshipping.com/2dc2a3e8-aeba-4c99-882b-a22d24df46cc.jpg",
+    "https://cf.cjdropshipping.com/24d6df9a-2185-4e7c-9e57-5bde3b2d57e6.jpg",
+    "https://cf.cjdropshipping.com/6253dcca-f4bd-4fd6-8753-8c44d9246f27.jpg"
+  ],
+  "tiles": [
+    {"src": 0, "bg": "#F2E6D8"},
+    {"src": 1, "bg": "#F2E6D8"},
+    {"src": 2, "bg": "#F2E6D8"},
+    {"src": 3, "bg": "#F2E6D8"}
+  ],
+  "scenes": []
+}

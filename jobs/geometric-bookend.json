@@ -1,0 +1,12 @@
+{
+  "product": "geometric-bookend",
+  "images": [
+    "https://cf.cjdropshipping.com/aec37e73-26b8-4811-83e9-44836abbb401.jpg",
+    "https://cf.cjdropshipping.com/570fc6a8-d822-4e07-a8b3-2d11f3a8a400.jpg"
+  ],
+  "tiles": [
+    {"src": 0, "bg": "#EFEBE4"},
+    {"src": 1, "bg": "#D8E3D1"}
+  ],
+  "scenes": []
+}
