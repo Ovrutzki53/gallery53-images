@@ -1,0 +1,8 @@
+{
+  "product": "bauhaus-glass-vase",
+  "images": ["https://cf.cjdropshipping.com/24d6df9a-2185-4e7c-9e57-5bde3b2d57e6.jpg"],
+  "tiles": [],
+  "scenes": [
+    {"src": 0, "prompt": "Product photograph for a museum design store. Keep this exact glass bottle vase unchanged: same shape, same sage-green opaque glass, same round dark-green glass stopper, same proportions. Remove the text in the image. Place it alone on a smooth light-grey concrete shelf against a flat warm off-white wall (#EFEBE4). Soft natural daylight from the upper left, a gentle soft shadow, no props, no other objects, no text, no logos. Calm, minimal, editorial still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the vase centred with generous empty space around it."}
+  ]
+}
