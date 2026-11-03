@@ -1,0 +1,21 @@
+{
+ "product": "silver-sculpted-vase",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0582cd5a-0787-4ca0-82ec-0a4cb04c697d_300x300.jpg?v=1793732154"
+ ],
+ "tiles": [],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact irregular hand-shaped ceramic vase with a crumpled, folded body unchanged: same shape, same mirror-like metallic silver glaze, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it straight-on at a slight downward angle, alone and centred on a seamless flat background in #D8E3D1, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact irregular hand-shaped ceramic vase with a crumpled, folded body unchanged: same shape, same mirror-like metallic silver glaze, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it from a slight three-quarter angle at table height. Setting: on a dark walnut sideboard against a flat warm grey wall, three white tulips in the vase. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact irregular hand-shaped ceramic vase with a crumpled, folded body unchanged: same shape, same mirror-like metallic silver glaze, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it from a high angle looking down about 35 degrees. Setting: on a pale stone plinth against a peach linen backdrop (#F2E6D8), no flowers, the crumpled silver surface catching soft reflections. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ]
+}

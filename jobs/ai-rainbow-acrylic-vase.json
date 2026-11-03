@@ -1,0 +1,21 @@
+{
+ "product": "rainbow-acrylic-vase",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/39b71298-a857-46b0-a5a3-af23c0fad891_300x300.jpg?v=1793732165"
+ ],
+ "tiles": [],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact geometric arch vase made of layered iridescent acrylic panes unchanged: same shape, same clear iridescent acrylic that throws rainbow colours, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it straight-on at a slight downward angle, alone and centred on a seamless flat background in #EFEBE4, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact geometric arch vase made of layered iridescent acrylic panes unchanged: same shape, same clear iridescent acrylic that throws rainbow colours, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it straight-on at eye level. Setting: on a light-grey concrete shelf against a flat warm off-white wall, a single pale tulip stem in the vase, sunlight passing through it and casting rainbow light on the wall. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact geometric arch vase made of layered iridescent acrylic panes unchanged: same shape, same clear iridescent acrylic that throws rainbow colours, same proportions, same transparency and reflections. Remove everything else from the original photo: props, flowers, hands, text, packaging, dimension lines, logos. Shoot it from a low three-quarter angle. Setting: on a white linen-covered table by a window, strong side light making the acrylic glow, the rainbow reflections visible on the cloth. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ]
+}
