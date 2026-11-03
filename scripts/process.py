@@ -20,7 +20,28 @@ from PIL import Image
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 JOBS, OUT = ROOT / "jobs", ROOT / "out"
 UA = {"User-Agent": "Mozilla/5.0 (gallery53-image-pipeline)"}
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-image")
+GEMINI_MODELS = [m for m in os.environ.get("GEMINI_MODEL", "").split(",") if m] or [
+    "gemini-nano-banana-2.1", "gemini-3.1-flash-image", "gemini-2.5-flash-image"]
+MONTHLY_CAP = int(os.environ.get("MONTHLY_IMAGE_CAP", "100"))
+USAGE = ROOT / "usage"
+
+
+def usage_path():
+    return USAGE / (time.strftime("%Y-%m") + ".json")
+
+
+def usage_count():
+    p = usage_path()
+    return json.loads(p.read_text())["images"] if p.exists() else 0
+
+
+def usage_add(model):
+    USAGE.mkdir(exist_ok=True)
+    p = usage_path()
+    d = json.loads(p.read_text()) if p.exists() else {"images": 0, "by_model": {}}
+    d["images"] += 1
+    d["by_model"][model] = d["by_model"].get(model, 0) + 1
+    p.write_text(json.dumps(d, indent=2))
 
 
 def fetch(url):
@@ -67,19 +88,26 @@ def scene(img, prompt):
         {"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(buf.getvalue()).decode()}},
         {"text": prompt},
     ]}]}
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    for attempt in range(3):
-        r = requests.post(url, params={"key": key}, json=body, timeout=180)
-        if r.status_code == 429:
-            time.sleep(20 * (attempt + 1)); continue
+    if usage_count() >= MONTHLY_CAP:
+        raise RuntimeError(f"Monthly cap of {MONTHLY_CAP} generated images reached - not calling Gemini")
+    for model in GEMINI_MODELS:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        for attempt in range(3):
+            r = requests.post(url, params={"key": key}, json=body, timeout=180)
+            if r.status_code == 429:
+                time.sleep(20 * (attempt + 1)); continue
+            break
+        if r.status_code == 404:
+            print(f"model {model} not found, trying next"); continue
         r.raise_for_status()
+        usage_add(model)  # count every successful (billed) call, even if no image came back
         for cand in r.json().get("candidates", []):
             for part in cand.get("content", {}).get("parts", []):
                 data = part.get("inline_data") or part.get("inlineData")
                 if data:
                     return Image.open(io.BytesIO(base64.b64decode(data["data"]))).convert("RGB")
-        raise RuntimeError("Gemini returned no image: " + r.text[:500])
-    raise RuntimeError("Gemini rate limited")
+        raise RuntimeError(f"Gemini ({model}) returned no image: " + r.text[:500])
+    raise RuntimeError("No Gemini image model available: " + ", ".join(GEMINI_MODELS))
 
 
 def run(job_path):
