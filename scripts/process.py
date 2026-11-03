@@ -50,8 +50,8 @@ def cutout(img):
 def tile(obj, bg, size, padding):
     canvas = Image.new("RGB", (size, size), hex_rgb(bg))
     inner = int(size * (1 - 2 * padding))
-    o = obj.copy()
-    o.thumbnail((inner, inner), Image.LANCZOS)
+    scale = inner / max(obj.width, obj.height)   # fit the object to the padded box (up or down)
+    o = obj.resize((max(1, round(obj.width * scale)), max(1, round(obj.height * scale))), Image.LANCZOS)
     x, y = (size - o.width) // 2, (size - o.height) // 2
     canvas.paste(o, (x, y), o)
     return canvas
@@ -86,7 +86,7 @@ def run(job_path):
     job = json.loads(job_path.read_text())
     out = OUT / job_path.stem
     out.mkdir(parents=True, exist_ok=True)
-    size, pad = job.get("size", 2000), job.get("padding", 0.18)
+    size, pad = job.get("size", 1600), job.get("padding", 0.18)
     srcs, cuts, log = {}, {}, {"job": job_path.name, "files": [], "errors": []}
 
     def src(i):
