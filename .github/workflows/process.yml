@@ -1,0 +1,46 @@
+name: Process images
+
+on:
+  push:
+    paths: ["jobs/**.json"]
+  workflow_dispatch:
+    inputs:
+      jobs:
+        description: "Job names to (re)run, space separated. Empty = all pending."
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: process-images
+  cancel-in-progress: false
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Cache rembg models
+        uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: rembg-models-v1
+      - run: pip install -r requirements.txt
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/process.py ${{ github.event.inputs.jobs }}
+      - name: Commit results
+        run: |
+          git config user.name "gallery53-bot"
+          git config user.email "gallery53-bot@users.noreply.github.com"
+          git add out
+          git diff --cached --quiet || git commit -m "Processed images [skip ci]"
+          git pull --rebase
+          git push
