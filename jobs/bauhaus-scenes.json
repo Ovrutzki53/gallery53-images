@@ -1,0 +1,23 @@
+{
+  "product": "bauhaus-glass-vase",
+  "images": [
+    "https://cf.cjdropshipping.com/1219d213-a320-4357-99fe-850b1206c324.jpg",
+    "https://cf.cjdropshipping.com/2dc2a3e8-aeba-4c99-882b-a22d24df46cc.jpg",
+    "https://cf.cjdropshipping.com/6253dcca-f4bd-4fd6-8753-8c44d9246f27.jpg"
+  ],
+  "tiles": [],
+  "scenes": [
+    {
+      "src": 0,
+      "prompt": "Product photograph for a museum design store. Keep this exact glass bottle vase unchanged: same shape, same lime-green opaque glass, same round dark-green glass stopper, same proportions. Remove the text in the image. Place it alone on a smooth light-grey concrete shelf against a flat warm off-white wall (#EFEBE4). Soft natural daylight from the upper left, a gentle soft shadow, no props, no other objects, no text, no logos. Calm, minimal, editorial still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the vase centred with generous empty space around it."
+    },
+    {
+      "src": 1,
+      "prompt": "Product photograph for a museum design store. Keep this exact glass bottle vase unchanged: same shape, same pale cream opaque glass, same round dark-green glass stopper, same proportions. Remove the text in the image. Place it alone on a smooth light-grey concrete shelf against a flat warm off-white wall (#EFEBE4). Soft natural daylight from the upper left, a gentle soft shadow, no props, no other objects, no text, no logos. Calm, minimal, editorial still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the vase centred with generous empty space around it."
+    },
+    {
+      "src": 2,
+      "prompt": "Product photograph for a museum design store. Keep this exact glass bottle vase unchanged: same shape, same olive / khaki opaque glass, same round dark-green glass stopper, same proportions. Remove the text in the image. Place it alone on a smooth light-grey concrete shelf against a flat warm off-white wall (#EFEBE4). Soft natural daylight from the upper left, a gentle soft shadow, no props, no other objects, no text, no logos. Calm, minimal, editorial still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the vase centred with generous empty space around it."
+    }
+  ]
+}

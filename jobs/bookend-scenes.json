@@ -1,0 +1,18 @@
+{
+  "product": "geometric-bookend",
+  "images": [
+    "https://cf.cjdropshipping.com/aec37e73-26b8-4811-83e9-44836abbb401.jpg",
+    "https://cf.cjdropshipping.com/570fc6a8-d822-4e07-a8b3-2d11f3a8a400.jpg"
+  ],
+  "tiles": [],
+  "scenes": [
+    {
+      "src": 0,
+      "prompt": "Product photograph for a museum design store. Keep this exact stepped arch bookend unchanged: same shape, same matte black speckled cast-stone texture, same proportions. Remove the books completely - the bookend stands alone with nothing leaning on it. Place it on a smooth pale stone surface against a flat warm off-white (#EFEBE4) wall. Soft natural daylight from the upper left, a gentle soft shadow, no props, no books, no text, no logos. Calm, minimal, architectural still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the bookend centred with generous empty space."
+    },
+    {
+      "src": 1,
+      "prompt": "Product photograph for a museum design store. Keep this exact stepped arch bookend unchanged: same shape, same chalk-white speckled cast-stone texture, same proportions. Remove the books completely - the bookend stands alone with nothing leaning on it. Place it on a smooth pale stone surface against a flat pale sage (#D8E3D1) wall. Soft natural daylight from the upper left, a gentle soft shadow, no props, no books, no text, no logos. Calm, minimal, architectural still life in the style of the MoMA Design Store catalogue. Square 1:1 composition, the bookend centred with generous empty space."
+    }
+  ]
+}
