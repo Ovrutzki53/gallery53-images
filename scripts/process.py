@@ -41,7 +41,9 @@ def cutout(img):
     if _session is None:
         _session = new_session("isnet-general-use")
     cut = remove(img, session=_session, alpha_matting=True)
-    bbox = cut.getbbox()
+    # bbox on a thresholded alpha so faint matting haze doesn't count as object
+    alpha = cut.getchannel("A").point(lambda a: 255 if a > 40 else 0)
+    bbox = alpha.getbbox()
     return cut.crop(bbox) if bbox else cut
 
 
