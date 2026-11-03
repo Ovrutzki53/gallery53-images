@@ -93,13 +93,16 @@ def scene(img, prompt):
     for model in GEMINI_MODELS:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         for attempt in range(3):
-            r = requests.post(url, params={"key": key}, json=body, timeout=180)
+            r = requests.post(url, headers={"x-goog-api-key": key}, json=body, timeout=180)
             if r.status_code == 429:
                 time.sleep(20 * (attempt + 1)); continue
             break
         if r.status_code == 404:
             print(f"model {model} not found, trying next"); continue
-        r.raise_for_status()
+        if r.status_code == 402:
+            raise RuntimeError("Gemini 402 Payment Required - billing is not active on the API key's Google Cloud project")
+        if r.status_code >= 400:
+            raise RuntimeError(f"Gemini {model} HTTP {r.status_code}: {r.text[:300]}")
         usage_add(model)  # count every successful (billed) call, even if no image came back
         for cand in r.json().get("candidates", []):
             for part in cand.get("content", {}).get("parts", []):
@@ -141,7 +144,11 @@ def run(job_path):
             scene(src(s.get("src", 0)), s["prompt"]).save(out / name, quality=90, optimize=True)
             log["files"].append(name)
         except Exception as e:
-            log["errors"].append(f"scene {n}: {e}")
+            msg = str(e)
+            k = os.environ.get("GEMINI_API_KEY")
+            if k:
+                msg = msg.replace(k, "***")
+            log["errors"].append(f"scene {n}: {msg}")
 
     (out / "done.json").write_text(json.dumps(log, indent=2, ensure_ascii=False))
     print(json.dumps(log, ensure_ascii=False))
