@@ -1,0 +1,18 @@
+{
+ "product": "kitchen-ceramic-butter-box-with-stainless-steel-scraper",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1ede6448-afa4-4547-b65f-541c1a941c65.jpg?v=1787348233",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7e691369-ed06-4603-beed-88ef6834ac7c.jpg?v=1787348233"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

@@ -1,0 +1,33 @@
+{
+ "product": "flowers-dried-flowers-new-houses-ornaments-fake-flowers-ornamental-flowers-ceramics",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/ddf1dde0-b833-4bc2-941e-a91b6dcf95ee.jpg?v=1787347123",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7066ecac-2387-4c98-b0b2-5078e23cf44f.jpg?v=1787347122",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/11c718bf-e12f-429a-92ae-8a7a3f65c1cf.jpg?v=1787347122",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/c4c70657-b70c-4df6-8e1d-89b06cc2aaf7.jpg?v=1787347122",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/9b3eb0d1-2970-4d09-9f33-12eb929c131c.jpg?v=1787347122"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 4,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

@@ -1,0 +1,23 @@
+{
+ "product": "foldable-dishcloth-shelf-kitchen-accessories-gadget-organizer",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/2865461392955.jpg?v=1787490013",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/448676012873.jpg?v=1787490013",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1464260343092.jpg?v=1787490014"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 2,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

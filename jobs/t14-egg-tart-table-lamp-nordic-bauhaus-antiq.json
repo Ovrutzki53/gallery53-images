@@ -1,0 +1,23 @@
+{
+ "product": "egg-tart-table-lamp-nordic-bauhaus-antique-style-living-room",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/77121bc8-06b4-44d6-b4fc-4dc4c2dcab30_trans.jpg?v=1790493765",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/a3028f7b-fc3d-4a41-b6ca-07445abdd516_trans.jpg?v=1790493765",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/cc784ea3-43b3-4aef-b1df-552268fe539b_trans.jpg?v=1790493765"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

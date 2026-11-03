@@ -1,0 +1,23 @@
+{
+ "product": "dried-gypsophila-bunch",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/gallery53_blue_bouquet_feed.jpg?v=1786393557",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/gallery53_pink_bouquet_feed.jpg?v=1786393893",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/gallery53_yellow_bouquet_feed.jpg?v=1786393664"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

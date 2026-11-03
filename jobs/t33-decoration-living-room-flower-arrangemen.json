@@ -1,0 +1,23 @@
+{
+ "product": "decoration-living-room-flower-arrangement-dried-flowers-dining-table-home-decorations",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f2a9bec7-5b9e-47c0-9a62-29d0993c697c.jpg?v=1787347359",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7c77ce94-850b-4308-8168-c9831a359b07.jpg?v=1787347359",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/57a4683b-5144-4a63-8ba5-872bdc6b17d0.jpg?v=1787347359"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

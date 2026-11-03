@@ -1,0 +1,33 @@
+{
+ "product": "spoon-japanese-ceramic-salt-shaker-household-seasoning-jar",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/4af0c3ae-eac4-4129-b741-60bea56d7544.jpg?v=1787490630",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/d1bc6c8f-ead4-42c0-8412-d28adc5db87b.jpg?v=1787490630",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b7da510f-9076-4aa6-b5dd-689c4a538555.jpg?v=1787490630",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/892b667e-b2fa-434e-9b05-9c37aae4da06.jpg?v=1787490630",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/09deaa02-3a02-4ffa-b68f-763998c39fdb.jpg?v=1787490630"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 4,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

@@ -1,0 +1,23 @@
+{
+ "product": "sophisticated-creative-pen-holder-office-desk-stationery-organizer-box",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/17717b62-52e2-4e6f-b0fe-5f456af55f7c.jpg?v=1787083214",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/bc92b535-23bd-4f42-b84e-7975bab8fdf5.jpg?v=1787083213",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/9d19934c-0c33-4bbf-8d92-1c694528fc18.jpg?v=1787083214"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

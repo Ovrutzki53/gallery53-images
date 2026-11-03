@@ -1,0 +1,28 @@
+{
+ "product": "beer-champagne-red-wine-small-ice-cube-bucket-with-lid",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7f1c2156-2b48-4991-a573-bdf7dae4cb07.jpg?v=1787490268",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7ff2ca53-23c4-4555-8e04-ab959b457ef1.jpg?v=1787490269",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7e415097-3216-47dc-83f5-d333f8fec4c5.jpg?v=1787490269",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/83f04a2e-3bec-4696-93cc-f4db2ceb8714.jpg?v=1787490268"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 3,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

@@ -1,0 +1,18 @@
+{
+ "product": "creative-modern-minimalist-jewelry-office-decoration",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/4a0969a8-d74f-4d18-b9f7-048f65354442.jpg?v=1787347752",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/6d713c2e-78da-4be3-8c10-fe960c7da8fd.jpg?v=1787347752"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

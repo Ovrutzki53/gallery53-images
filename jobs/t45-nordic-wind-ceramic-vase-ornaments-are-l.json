@@ -1,0 +1,63 @@
+{
+ "product": "nordic-wind-ceramic-vase-ornaments-are-luxurious",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/d6677d9f-8d69-487a-9b81-e09b35150fb5.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/596d11a2-0a16-40eb-b2eb-cf0d8ba4207b.jpg?v=1787081787",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b7d6bea8-78a9-4958-a1e5-8005621b7e1d.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0531067f-0f1d-4eed-9f5d-31eff239a338.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/8ca76ba9-ee48-47c9-8ab5-1f29ca74a8c5.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/ba80433a-f58c-428d-8007-b381bd224be6.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7b22175f-95d1-471c-9748-bafa1854d668.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/636eb140-9bde-4c49-a360-8c2db88b6f68.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f0c0b8c4-c53d-442f-b6d6-e3ab83af6e46.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/de224087-256c-4c5d-9e7a-1a12e2d70fcf.jpg?v=1787081786",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/45b2a8b6-cc8b-446c-8b7b-0b1275590699.jpg?v=1787081786"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 3,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 4,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 5,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 6,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 7,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 8,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 9,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 10,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

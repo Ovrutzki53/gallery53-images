@@ -1,0 +1,33 @@
+{
+ "product": "new-daisy-flower-insulation-simple-cute-silicone-placemat-kitchen-tools-home-decor",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/d56ec62a-bd87-4625-8c69-35ea26f80888.jpg?v=1787423902",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/50515ea7-231a-4c3c-ad5d-7b13ebfb0e74.jpg?v=1787423902",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/50cb3d98-5481-4796-a793-d21419442ece.jpg?v=1787423902",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/240a54a9-7011-4fcd-aadc-8ebbbe76363c.jpg?v=1787423902",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/da5f6c00-0e1b-4ea3-8524-3251f123e25f.jpg?v=1787423902"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 4,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

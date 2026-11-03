@@ -1,0 +1,18 @@
+{
+ "product": "medieval-cream-style-usb-table-lamp-bedroom-bedside-study-glass-bauhaus-ambience-light",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/926940a9-47ef-4535-8324-94026fcfd95d.jpg?v=1787491208",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/d3f5f63a-3f8f-4102-aa09-cad737778cbe.jpg?v=1787491208"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

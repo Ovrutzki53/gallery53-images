@@ -1,0 +1,18 @@
+{
+ "product": "wabi-sabi-vintage-handmade-ceramic-vase",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/ceb1b3e9-35f2-44cf-b259-44b7d4dd8061_trans.jpg?v=1787082264",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/5e315913-9648-4ca8-a47c-42895e877474_trans.jpg?v=1787082265"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

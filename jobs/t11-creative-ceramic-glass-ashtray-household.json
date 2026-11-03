@@ -1,0 +1,53 @@
+{
+ "product": "creative-ceramic-glass-ashtray-household",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/161e8768-19c6-4355-8c8c-7a4f05fdfd0c.jpg?v=1790528403",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0bd529c0-1ad9-4178-975e-867e8ecc1998.jpg?v=1790528404",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/4b560a0f-1743-4952-a72c-a6f8b27870d0.jpg?v=1790528404",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f29fca6c-d731-411e-8e0b-beba8c5baf45.jpg?v=1790528403",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/887788cd-7bdd-4532-865a-4f5c1cd91956.jpg?v=1790528403",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7a956078-5310-497f-86b9-4cd32affce5c.jpg?v=1790528403",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/e01397be-f84d-4641-9414-0007f480a731.jpg?v=1790528403",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/9ef9dec8-3855-4bf6-b97a-d57e076199e4.jpg?v=1790528404",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0b3fd4de-71dc-4309-a74f-b3d403bd05bd.jpg?v=1790528403"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 4,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 5,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 6,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 7,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 8,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

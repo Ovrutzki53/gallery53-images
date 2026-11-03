@@ -1,0 +1,48 @@
+{
+ "product": "transparent-glass-bowl-cute-home-salad-fruit-bowl",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/52921ec8-b907-4a44-9bcf-c52071f9b810.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/18949f2e-49b5-4771-aa93-d22d68adef06.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/44ce6db0-757d-4191-aa20-ab5b7cb4ea6a.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/ab38b5c4-ed38-4ef1-a9a2-c6838d73e906.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f4b30d88-188c-4939-8fb6-36328d3c4af9.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0e34354c-e377-44c6-85db-b5715a11ae57.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/2f47c4ba-9443-466e-944f-373407fef9cf.jpg?v=1787082488",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/90a3ab9a-5275-456e-be78-6c1357c35118.jpg?v=1787082488"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 3,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 4,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 5,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 6,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 7,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

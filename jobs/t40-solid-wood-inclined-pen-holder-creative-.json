@@ -1,0 +1,18 @@
+{
+ "product": "solid-wood-inclined-pen-holder-creative-multifunctional-pen-holder",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/6219b597-c11c-47d2-90d0-5ba0c5d38b33.jpg?v=1787083260",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/8e261e6d-59ba-47c8-987b-5758710d15dd.jpg?v=1787083260"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

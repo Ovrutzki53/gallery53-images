@@ -1,0 +1,13 @@
+{
+ "product": "silver-sculpted-vase",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/51501285-11e2-420b-8220-649ce18162f5.jpg?v=1793732154"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

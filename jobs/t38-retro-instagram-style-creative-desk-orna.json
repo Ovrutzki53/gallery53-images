@@ -1,0 +1,28 @@
+{
+ "product": "retro-instagram-style-creative-desk-ornament-desk-calendar",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/5e1abe5e-09a1-4376-8ba0-21fac962a02b.jpg?v=1790493765",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b76629d9-a48b-49fa-bb99-6559e28ff0fb.jpg?v=1787083484",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/62014867-2450-434f-9547-71188a6cae47.jpg?v=1787083484",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/0c9403a5-260a-459e-86fc-f1fe21fc1f2a_trans.jpg?v=1787083484"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

@@ -1,0 +1,28 @@
+{
+ "product": "wavy-table-mirror",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1b2a83cc-6285-484f-baf0-e4999ce842c3.jpg?v=1793731475",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1ffc2590-2949-4785-8a3d-81649fef5fc0.jpg?v=1793731475",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f88568ca-9d27-48fd-8a22-e0f390fd458b.jpg?v=1793731475",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b94d4a0a-2d64-422d-80f5-b18899d3e28e.jpg?v=1793731475"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 3,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

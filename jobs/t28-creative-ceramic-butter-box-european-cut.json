@@ -1,0 +1,18 @@
+{
+ "product": "creative-ceramic-butter-box-european-cutlery-storage-box-with-lid",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1615078906375.jpg?v=1787348138",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/1615078906371.jpg?v=1787348138"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

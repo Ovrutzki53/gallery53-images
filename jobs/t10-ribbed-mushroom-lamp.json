@@ -1,0 +1,18 @@
+{
+ "product": "ribbed-mushroom-lamp",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/ed3aab84-c221-406e-b149-f5a20c508b87.jpg?v=1793648310",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b6032ceb-d8fb-42e6-9c61-c0b2591d75d8.jpg?v=1793648310"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

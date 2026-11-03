@@ -1,0 +1,23 @@
+{
+ "product": "retro-furnishings-hotel-decorative-fake-flower-finished-dried-flowers",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/907053ff-0898-4745-99c1-7b6a7d72bb0f_trans.jpg?v=1787347224",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b7ecaeae-eadc-4c16-82c4-48d1aaaad610.jpg?v=1790493765",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/5a7b04ac-dbdd-4962-aebb-000011beb41b_trans.jpg?v=1787347224"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 1,
+   "bg": "#F2E6D8"
+  },
+  {
+   "src": 2,
+   "bg": "#F2E6D8"
+  }
+ ],
+ "scenes": []
+}

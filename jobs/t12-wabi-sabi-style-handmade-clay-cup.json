@@ -1,0 +1,38 @@
+{
+ "product": "wabi-sabi-style-handmade-clay-cup",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/774f31ab-ac05-4a34-ad94-2c194343a1b7.jpg?v=1790527907",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/efd46cfe-74bb-4d8e-b5b4-9bc36ce0b08f.jpg?v=1790527906",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/17eb1044-d6ce-4b30-bae2-d5c3869d8c1a.jpg?v=1790527907",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/3a4ce2e5-64bf-45c5-b5b4-73f3208d61bc.jpg?v=1790527907",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/552079fd-e07e-4c92-a729-dcf015ec827f.jpg?v=1790527907",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f6ddb558-fa12-4642-964b-39d4521944fc.jpg?v=1790527906"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 3,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 4,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 5,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

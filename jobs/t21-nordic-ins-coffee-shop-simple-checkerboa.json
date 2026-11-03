@@ -1,0 +1,38 @@
+{
+ "product": "nordic-ins-coffee-shop-simple-checkerboard-check-acrylic-coaster",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/4a6922ab-a9d0-4bb1-92f4-25571bcda671.jpg?v=1787425513",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/310138d2-f83c-41fe-8993-55e46df1f62a.jpg?v=1787425513",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/a572ca82-8c93-4043-a1ef-f38371159bac.jpg?v=1787425513",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/25a86f45-2b1e-4e55-909f-a93a598bf38f.jpg?v=1787425513",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/3719bc61-d03f-40c1-94d7-57abd679c801.jpg?v=1787425513",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f158bd9a-4a32-49b7-8e48-a5cf4d59d40e.jpg?v=1787425513"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 1,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 2,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 3,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 4,
+   "bg": "#D8E3D1"
+  },
+  {
+   "src": 5,
+   "bg": "#D8E3D1"
+  }
+ ],
+ "scenes": []
+}

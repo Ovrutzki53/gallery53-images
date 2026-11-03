@@ -1,0 +1,18 @@
+{
+ "product": "creative-solid-wood-hydroponic-test-tube-glass-wall-vase-home-plant-hanging",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/2632536c-2807-4fcd-b6db-4ecc975c082d.jpg?v=1787082083",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/a92acdfe-bcdf-4bc4-9e02-98f3396ff4cb.jpg?v=1787082083"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

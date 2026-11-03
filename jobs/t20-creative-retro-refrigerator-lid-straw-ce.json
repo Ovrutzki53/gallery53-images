@@ -1,0 +1,23 @@
+{
+ "product": "creative-retro-refrigerator-lid-straw-ceramic-cup-kitchen-gadgets",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/6c91f977-4a25-4bea-909c-a645a2fc7bc7.jpg?v=1787489745",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/cf96b8f0-809d-4cc2-a534-081f889562b6.jpg?v=1787489745",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/f26fda80-405c-4430-b29c-0167bd2cb0f5.jpg?v=1787489745"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 2,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}

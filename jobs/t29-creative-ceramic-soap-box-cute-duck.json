@@ -1,0 +1,18 @@
+{
+ "product": "creative-ceramic-soap-box-cute-duck",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/64b6c5d1-23ca-487a-b9cb-125d1ce6428a_trans.jpg?v=1787348058",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/7f11c4d1-576e-44f0-bae4-f2c3a4012118_trans.jpg?v=1787348058"
+ ],
+ "tiles": [
+  {
+   "src": 0,
+   "bg": "#EFEBE4"
+  },
+  {
+   "src": 1,
+   "bg": "#EFEBE4"
+  }
+ ],
+ "scenes": []
+}
