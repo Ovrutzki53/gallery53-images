@@ -1,0 +1,18 @@
+{
+ "product": "g09-tree-calendar-boxed",
+ "images": [
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/d2ed6bf5-95c1-4b59-b5b2-dcb496454c12_trans.jpg",
+  "https://cdn.shopify.com/s/files/1/0980/9287/6079/files/b0bb78a8-6148-41c2-9304-67ebcc526781_trans.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact gift set unchanged: the kraft paper gift bag with rope handles, the printed packaging box, and the round perpetual desk calendar topped with a miniature tree and small white house, with the same shapes, colours, prints and proportions as in the original photo. Remove everything else: captions, added text overlays, dimension lines, watermarks, other objects. Arrange them as a neat gift group, the calendar standing in front of the box and the bag slightly behind. Shoot from a three-quarter angle, camera slightly above, centred on a seamless flat background in #EADFCF warm sand, with about 15% empty space on every side. Soft even studio light from the upper left, faint soft contact shadows, no floor reflection. No added text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact gift set unchanged: the kraft paper gift bag with rope handles, the printed packaging box, and the round perpetual desk calendar topped with a miniature tree and small white house, with the same shapes, colours, prints and proportions as in the original photo. Remove everything else: captions, added text overlays, dimension lines, watermarks, other objects. Arrange them as a neat gift group, the calendar standing in front of the box and the bag slightly behind. Shoot straight-on at eye level, centred on a seamless flat background in #DDE4DA pale sage, with about 15% empty space on every side. Soft directional light from the right, faint soft contact shadows, no floor reflection. No added text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}
