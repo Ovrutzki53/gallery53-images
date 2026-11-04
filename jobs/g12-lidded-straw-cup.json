@@ -1,0 +1,27 @@
+{
+ "product": "g12-lidded-straw-cup",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t20-creative-retro-refrigerator-lid-straw-ce/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t20-creative-retro-refrigerator-lid-straw-ce/source-1.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t20-creative-retro-refrigerator-lid-straw-ce/source-2.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact square ceramic mug shaped like a retro two-door refrigerator, with a flat lid, a steel straw and a small FOCUS badge unchanged: same shape, same glossy dark bottle-green glaze and black handle, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle, camera slightly above, alone and centred on a seamless flat background in #E6E0D2 pale oat, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact square ceramic mug shaped like a retro two-door refrigerator, with a flat lid, a steel straw and a small FOCUS badge unchanged: same shape, same glossy silver-grey glaze and black handle, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level, alone and centred on a seamless flat background in #D8DEE6 pale blue-grey, with about 18% empty space on every side. Soft light from the upper right, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 2,
+   "prompt": "Product photograph for a museum design store. Keep this exact square ceramic mug shaped like a retro two-door refrigerator, with a flat lid, a steel straw and a small FOCUS badge unchanged: same shape, same glossy sunflower-yellow glaze and yellow handle, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a slight side angle, camera a little below, alone and centred on a seamless flat background in #E8E3EF soft lilac, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 2,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact square ceramic mug shaped like a retro two-door refrigerator, with a flat lid, a steel straw and a small FOCUS badge unchanged: same shape, same glossy sunflower-yellow glaze and yellow handle, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle. Setting: on a mint-green kitchen counter next to a glass bottle of lemonade with a lemon slice, bright summer daylight. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}

@@ -1,0 +1,17 @@
+{
+ "product": "g13-glazed-cup-and-coaster",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t13-home-vintage-ceramic-americana-coffee-co/source-0.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact hand-thrown ceramic coffee cup with a curved handle on a matching organic-shaped saucer unchanged: same shape, same rough dark iron-black and bronze rustic glaze, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle, camera slightly above, the cup empty, alone and centred on a seamless flat background in #E7E2D8 light stone, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact hand-thrown ceramic coffee cup with a curved handle on a matching organic-shaped saucer unchanged: same shape, same rough dark iron-black and bronze rustic glaze, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a low angle close to the table. Setting: on a raw dark slate tabletop, the cup filled with black coffee, a small linen napkin folded beside, moody soft side light from a window. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}

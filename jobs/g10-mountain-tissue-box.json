@@ -1,0 +1,17 @@
+{
+ "product": "g10-mountain-tissue-box",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t30-snow-mountain-ceramic-tissue-box/source-0.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact ceramic tissue box shaped like a snow-capped mountain, with a white tissue peeking from the top unchanged: same shape, same matte cobalt-blue base and glossy white snow-cap glaze, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle, camera slightly above, alone and centred on a seamless flat background in #E9E4DA warm off-white, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact ceramic tissue box shaped like a snow-capped mountain, with a white tissue peeking from the top unchanged: same shape, same matte cobalt-blue base and glossy white snow-cap glaze, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, books, packaging, dimension lines, logos, other objects. Shoot it from a low side angle. Setting: on a pale oak bedside shelf against a soft dusty-blue wall, a small ceramic cup beside it, gentle morning window light. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}
