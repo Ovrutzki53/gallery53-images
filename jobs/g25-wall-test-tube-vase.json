@@ -1,0 +1,22 @@
+{
+ "product": "g25-wall-test-tube-vase",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t44-creative-solid-wood-hydroponic-test-tube/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t44-creative-solid-wood-hydroponic-test-tube/source-1.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact hanging wall vase: two horizontal wooden slats on a jute rope holding four clear glass test tubes unchanged: same shape, same dark stained wood and clear glass, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, logos, packaging, boxes, books, furniture, other objects. Shoot it straight-on at eye level. Setting: hanging alone from a small brass hook on a flat pale sage #D8E3D1 wall, a single green leaf stem in water in two of the tubes. Crisp directional light from the upper left casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no plants, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact hanging wall vase: two horizontal wooden slats on a jute rope holding four clear glass test tubes unchanged: same shape, same natural pale wood and clear glass, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, logos, packaging, boxes, books, furniture, other objects. Shoot it straight-on at eye level. Setting: hanging alone from a small brass hook on a flat warm parchment #EFEBE4 wall, a single green leaf stem in water in two of the tubes. Crisp directional light from the upper left casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no plants, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact hanging wall vase: two horizontal wooden slats on a jute rope holding four clear glass test tubes unchanged: same shape, same natural pale wood and clear glass, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, logos, packaging, boxes, books, furniture, other objects. Shoot it from a three-quarter side angle. Setting: hanging from a small brass hook on a flat peach linen #F2E6D8 wall, beside the edge of a tall near-black #1A1A1A wall panel, the tubes empty. Crisp directional light from the upper left casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no plants, no clutter. No added text, no people. Square 1:1."
+  }
+ ],
+ "tiles": []
+}
