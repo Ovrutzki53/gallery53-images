@@ -1,0 +1,22 @@
+{
+ "product": "g05-geometric-ceramic-object",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t32-creative-modern-minimalist-jewelry-offic/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t32-creative-modern-minimalist-jewelry-offic/source-1.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact abstract sculpture of nested organic loops on a small square base unchanged: same shape, same glossy white ceramic outer loop and mirror-polished silver inner loops, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level, alone and centred on a seamless flat background in #D9DDE0 cool pale grey, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact abstract sculpture of nested organic loops on a small square base unchanged: same shape, same glossy white ceramic outer loop and mirror-polished silver inner loops, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slight three-quarter angle, camera a little above, alone and centred on a seamless flat background in #E8E1D6 warm stone, with about 18% empty space on every side. Soft directional light from the right, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact abstract sculpture of nested organic loops on a small square base unchanged: same shape, same glossy white ceramic and mirror-polished silver, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a low angle, slightly to the side. Setting: on a dark walnut sideboard against a deep olive-green wall, a stack of two closed hardcover art books with blank spines beside it, cool morning window light. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}

@@ -1,0 +1,27 @@
+{
+ "product": "g08-egg-tart-lamp",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t14-egg-tart-table-lamp-nordic-bauhaus-antiq/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t14-egg-tart-table-lamp-nordic-bauhaus-antiq/source-1.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t14-egg-tart-table-lamp-nordic-bauhaus-antiq/source-2.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact table lamp with a shade of two stacked rounded glass discs on a slim chrome stem and round chrome base unchanged: same shape, same opaque glossy orange glass and polished chrome, without any cable, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level, alone and centred on a seamless flat background in #EDE6DA warm off-white, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact table lamp with a shade of two stacked rounded glass discs on a slim chrome stem and round chrome base unchanged: same shape, same opaque glossy bright pink glass and polished chrome, without any cable, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slight three-quarter angle, camera a little below, alone and centred on a seamless flat background in #F1E4E4 pale blush, with about 18% empty space on every side. Soft light from the upper right, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 2,
+   "prompt": "Product photograph for a museum design store. Keep this exact table lamp with a shade of two stacked rounded glass discs on a slim chrome stem and round chrome base unchanged: same shape, same opaque glossy white glass and polished chrome, without any cable, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level, the lamp switched on with a soft warm glow, alone and centred on a seamless flat background in #C9CFC4 muted sage-grey, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact table lamp with a shade of two stacked rounded glass discs on a slim chrome stem unchanged: same shape, same opaque glossy orange glass and polished chrome, cable hidden, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle. Setting: on a white bedside table next to a small stack of books with blank spines, in a calm bedroom with a soft grey wall at dusk, the lamp switched on and glowing warmly. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}

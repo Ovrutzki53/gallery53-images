@@ -1,0 +1,22 @@
+{
+ "product": "g06-tree-perpetual-calendar",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t39-calendar-perpetual-calendar-decorative-d/source-1.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t39-calendar-perpetual-calendar-decorative-d/source-3.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact round perpetual desk calendar with stacked rotating rings, topped with a miniature tree, small white house and grass unchanged: same shape, same sage, cream and sand coloured rings with printed day and month names, wooden brown base, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle, camera slightly above, alone and centred on a seamless flat background in #F0E9DD pale cream, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact round perpetual desk calendar with stacked rotating rings, topped with a miniature tree, small white house and grass unchanged: same shape, same sage, cream and sand coloured rings with printed day and month names, wooden brown base, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level, alone and centred on a seamless flat background in #DCE3D6 soft sage, with about 18% empty space on every side. Soft light from the upper right, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact round perpetual desk calendar topped with a miniature tree and small house unchanged: same shape, same sage, cream and sand coloured rings, wooden base, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a 45-degree angle on a desk. Setting: on a light oak desk next to a ceramic mug and a closed linen notebook, a sunny window softly out of focus behind, warm morning light. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "tiles": []
+}
