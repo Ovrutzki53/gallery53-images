@@ -1,0 +1,22 @@
+{
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t15-medieval-cream-style-usb-table-lamp-bedr/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t15-medieval-cream-style-usb-table-lamp-bedr/source-1.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact small round glass globe table lamp resting on a bent chrome wire stand unchanged: same shape, same glossy orange opal glass globe, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a low three-quarter angle, lamp switched off, alone and centred on a seamless flat background in #F2E6D8, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact small round glass globe table lamp resting on a bent chrome wire stand unchanged: same shape, same cream white opal glass globe, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a low three-quarter angle, lamp switched off, alone and centred on a seamless flat background in #F2E6D8, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact small round glass globe table lamp resting on a bent chrome wire stand unchanged: same shape, same cream white opal glass globe, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it straight-on at eye level. Setting: on a dark walnut bedside table against a flat warm grey wall at dusk, the lamp switched on and glowing softly. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "product": "g04-cream-glass-lamp",
+ "tiles": []
+}

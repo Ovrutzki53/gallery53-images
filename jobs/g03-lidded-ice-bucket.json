@@ -1,0 +1,32 @@
+{
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t18-beer-champagne-red-wine-small-ice-cube-b/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t18-beer-champagne-red-wine-small-ice-cube-b/source-1.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t18-beer-champagne-red-wine-small-ice-cube-b/source-2.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t18-beer-champagne-red-wine-small-ice-cube-b/source-3.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Product photograph for a museum design store. Keep this exact lidded ice bucket with a curved side handle and a matching scoop unchanged: same shape, same sage green powder-coated steel, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slightly high angle, about 20 degrees above, alone and centred on a seamless flat background in #D8E3D1, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Product photograph for a museum design store. Keep this exact lidded ice bucket with a curved side handle and a matching scoop unchanged: same shape, same red powder-coated steel, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slightly high angle, about 20 degrees above, alone and centred on a seamless flat background in #D8E3D1, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 2,
+   "prompt": "Product photograph for a museum design store. Keep this exact lidded ice bucket with a curved side handle and a matching scoop unchanged: same shape, same brushed stainless steel, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slightly high angle, about 20 degrees above, alone and centred on a seamless flat background in #D8E3D1, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 3,
+   "prompt": "Product photograph for a museum design store. Keep this exact lidded ice bucket with a curved side handle and a matching scoop unchanged: same shape, same white powder-coated steel, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a slightly high angle, about 20 degrees above, alone and centred on a seamless flat background in #D8E3D1, with about 18% empty space on every side. Soft even studio light from the upper left, a faint soft contact shadow, no floor reflection. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  },
+  {
+   "src": 0,
+   "prompt": "Editorial still-life photograph for a museum design store. Keep this exact lidded ice bucket with a curved side handle and a matching scoop unchanged: same shape, same sage green powder-coated steel, same proportions and details. Remove everything else from the original photo: props, flowers, hands, text, captions, packaging, dimension lines, logos, other objects. Shoot it from a three-quarter angle at table height. Setting: on a white marble kitchen counter by a window, the lid slightly ajar with ice cubes visible inside, a single lemon half beside it. Natural daylight, soft shadows, one object only, generous empty space. No text, no logos, no people. Calm, minimal, in the style of the MoMA Design Store catalogue. Square 1:1."
+  }
+ ],
+ "product": "g03-lidded-ice-bucket",
+ "tiles": []
+}
