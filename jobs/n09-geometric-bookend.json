@@ -1,0 +1,18 @@
+{
+ "product": "n09-geometric-bookend",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/geometric-bookend/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/geometric-bookend/source-1.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact black speckled terrazzo bookend made of stepped rounded-top arches, the arches decreasing in height outward, every arch top fully rounded unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it slightly from above. Setting: on a table surface split into two flat colour planes, warm parchment #EFEBE4 and pale sage #D8E3D1, meeting in one straight line behind the object. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact white speckled terrazzo bookend made of stepped rounded-top arches, the arches decreasing in height outward, every arch top fully rounded unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it straight-on at eye level. Setting: standing on a thin near-black #1A1A1A stone slab against a flat pale sage #D8E3D1 wall. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  }
+ ],
+ "tiles": []
+}

@@ -1,0 +1,33 @@
+{
+ "product": "n03-daisy-silicone-placemat",
+ "images": [
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t26-new-daisy-flower-insulation-simple-cute-/source-0.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t26-new-daisy-flower-insulation-simple-cute-/source-1.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t26-new-daisy-flower-insulation-simple-cute-/source-2.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t26-new-daisy-flower-insulation-simple-cute-/source-3.jpg",
+  "https://raw.githubusercontent.com/Ovrutzki53/gallery53-images/main/out/t26-new-daisy-flower-insulation-simple-cute-/source-4.jpg"
+ ],
+ "scenes": [
+  {
+   "src": 0,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact daisy-shaped silicone placemat unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it directly from above, a flat-lay. Setting: lying flat alone on a matte pale sage #D8E3D1 surface. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 1,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact daisy-shaped silicone placemat unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it directly from above, a flat-lay. Setting: lying flat alone on a matte warm parchment #EFEBE4 surface, a straight near-black #1A1A1A band crossing one corner of the frame. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 2,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact daisy-shaped silicone placemat unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it directly from above, a flat-lay. Setting: lying flat alone on a matte peach linen #F2E6D8 surface. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 3,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact daisy-shaped silicone placemat unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it directly from above, a flat-lay. Setting: lying flat alone on a matte pale sage #D8E3D1 surface. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  },
+  {
+   "src": 4,
+   "prompt": "Gallery-style still-life photograph for a museum design store, MoMA Design Store catalogue style. Keep this exact daisy-shaped silicone placemat unchanged: same shape, same colour, material and finish, same proportions and details. Remove everything else from the original photo: props, food, flowers, hands, captions, overlaid text, dimension lines, measurement labels, logos, packaging, boxes, books, furniture, other objects. Shoot it directly from above, a flat-lay. Setting: lying flat alone on a matte warm parchment #EFEBE4 surface, a straight near-black #1A1A1A band crossing one corner of the frame. Crisp directional light casting one clean, sharp graphic shadow. Strict, architectural, bold flat colour planes, the object is the only thing in the frame: no props, no clutter. No added text, no people. Square 1:1."
+  }
+ ],
+ "tiles": []
+}
