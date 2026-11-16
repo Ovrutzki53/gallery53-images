@@ -1,0 +1,9 @@
+{
+ "image": "video/bauhaus-first-frame.jpg",
+ "model": "veo-3.1-lite-generate-preview",
+ "duration": 8,
+ "aspect": "9:16",
+ "resolution": "1080p",
+ "prompt": "Quiet still-life film for a museum design store. Locked-off camera with an extremely slow, smooth push-in. The pale green opaque glass bottle vase with its round dark green glass stopper stands perfectly still on the grey concrete shelf and never changes: same shape, same colours, same size, same position. Soft late-afternoon sunlight slowly drifts across the warm parchment wall: a crisp geometric window-frame shadow slides gently from left to right behind the vase, and a soft glint travels across the glossy glass stopper. Calm, minimal, gallery atmosphere. Sound: quiet room tone only.",
+ "negative": "people, hands, text, logos, music, extra objects, flowers, the vase moving, the vase changing shape or colour, camera shake, fast motion"
+}
