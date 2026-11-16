@@ -33,7 +33,7 @@ def run(job_path):
     r = requests.post(f"{BASE}/models/{model}:predictLongRunning", headers=H, json=body, timeout=120)
     if r.status_code == 404:
         ms = requests.get(f"{BASE}/models?pageSize=200", headers=H, timeout=60).json().get("models", [])
-        print("AVAILABLE VEO MODELS:", [m["name"] + " " + ",".join(m.get("supportedGenerationMethods", [])) for m in ms if "veo" in m["name"]])
+        print("ALL MODELS:", [m["name"] + " " + ",".join(m.get("supportedGenerationMethods", [])) for m in ms])
     if r.status_code != 200: raise RuntimeError(f"start HTTP {r.status_code}: {scrub(r.text[:600])}")
     op = r.json()["name"]; print("operation", op)
     for _ in range(120):
