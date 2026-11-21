@@ -1,0 +1,31 @@
+{
+ "job": "o01-bauhaus-vase-light",
+ "model": "gemini-omni-1.1-flash",
+ "status": "completed",
+ "usage": {
+  "initial_input_tokens": 1235,
+  "input_tokens_by_modality": [
+   {
+    "modality": "image",
+    "tokens": 1100
+   },
+   {
+    "modality": "text",
+    "tokens": 135
+   }
+  ],
+  "output_tokens_by_modality": [
+   {
+    "modality": "video",
+    "tokens": 34752
+   }
+  ],
+  "total_cached_tokens": 0,
+  "total_input_tokens": 1235,
+  "total_output_tokens": 34752,
+  "total_thought_tokens": 326,
+  "total_tokens": 36313,
+  "total_tool_use_tokens": 0
+ },
+ "at": "2026-11-21T20:14:22.365560"
+}
