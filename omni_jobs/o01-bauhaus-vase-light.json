@@ -1,0 +1,10 @@
+{
+ "type": "image_to_video",
+ "name": "o01-bauhaus-vase-light",
+ "model": "gemini-omni-1.1-flash",
+ "aspect_ratio": "9:16",
+ "resolution": "720p",
+ "duration": "6s",
+ "sources": ["video/bauhaus-first-frame.jpg"],
+ "prompt": "A living photograph, not a new scene. Keep this exact frame: the pale green opaque glass bottle vase with its round dark green glass stopper on the grey concrete shelf against the warm parchment wall. The vase is heavy and completely still: it never moves, never changes shape, colour, size or position. Very gentle, slow camera push-in. Only the light moves: soft natural sunlight drifts slowly across the wall, a crisp window-frame shadow slides gently behind the vase, and a soft highlight travels across the glossy stopper. Real-time pace, no slow motion. No text, no logos, no numbers, no people, no hands, no new objects."
+}
