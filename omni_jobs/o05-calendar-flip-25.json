@@ -1,0 +1,10 @@
+{
+ "type": "image_to_video",
+ "name": "o05-calendar-flip-25",
+ "model": "gemini-omni-1.1-flash",
+ "aspect_ratio": "9:16",
+ "resolution": "720p",
+ "duration": "6s",
+ "sources": ["video/calendar-first-frame.jpg"],
+ "prompt": "A living photograph, not a new scene. Keep this exact frame: the cream arched desk calendar with the stack of round black cards on top, the round window showing the white number 24 in a clean bold sans-serif, the small OCTOBER label, the black base and the small red knob on its right side, on a warm peach surface. The calendar is heavy and stays completely still: same shape, colours, size and position. One relaxed adult hand with natural skin and short clean nails enters slowly from the right edge and a fingertip turns the small red knob. As the knob turns, the round black card in the window clicks over and the number changes from 24 to 25 — the same white bold sans-serif digits, same size and position, sharp and clean. The hand then withdraws out of frame and 25 stays visible, perfectly legible. OCTOBER never changes. Soft natural sunlight drifts slowly across the surface. Very gentle camera push-in. Real-time pace, no slow motion. No other text or numbers, no logos, no jewellery, no other objects."
+}
