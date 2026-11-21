@@ -24,11 +24,12 @@ def main(name):
     inp = [{"type": "text", "text": job["prompt"]}]
     for s in job["sources"]:
         d, m = img_b64(s); inp.append({"type": "image", "data": d, "mime_type": m})
+    kw = {}
+    if job.get("type"): kw["generation_config"] = {"video_config": {"task": job["type"]}}
     it = client.interactions.create(
         model=job.get("model", "gemini-omni-1.1-flash"), input=inp, background=True,
         response_format={"type": "video", "aspect_ratio": job.get("aspect_ratio", "9:16"),
-                         "duration": job.get("duration", "6s"), "resolution": job.get("resolution", "720p")},
-        generation_config={"video_config": {"task": job.get("type", "image_to_video")}})
+                         "duration": job.get("duration", "6s"), "resolution": job.get("resolution", "720p")}, **kw)
     iid = it.id; print("interaction", iid, it.status)
     for _ in range(180):
         if it.status not in ("in_progress", "queued", "idle"): break
