@@ -1,0 +1,31 @@
+{
+ "job": "o02-calendar-hand",
+ "model": "gemini-omni-1.1-flash",
+ "status": "completed",
+ "usage": {
+  "initial_input_tokens": 1280,
+  "input_tokens_by_modality": [
+   {
+    "modality": "text",
+    "tokens": 180
+   },
+   {
+    "modality": "image",
+    "tokens": 1100
+   }
+  ],
+  "output_tokens_by_modality": [
+   {
+    "modality": "video",
+    "tokens": 34752
+   }
+  ],
+  "total_cached_tokens": 0,
+  "total_input_tokens": 1280,
+  "total_output_tokens": 34752,
+  "total_thought_tokens": 580,
+  "total_tokens": 36612,
+  "total_tool_use_tokens": 0
+ },
+ "at": "2026-11-21T20:18:38.244085"
+}
