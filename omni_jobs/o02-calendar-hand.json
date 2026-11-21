@@ -1,0 +1,10 @@
+{
+ "type": "image_to_video",
+ "name": "o02-calendar-hand",
+ "model": "gemini-omni-1.1-flash",
+ "aspect_ratio": "9:16",
+ "resolution": "720p",
+ "duration": "6s",
+ "sources": ["video/calendar-first-frame.jpg"],
+ "prompt": "A living photograph, not a new scene. Keep this exact frame: the cream arched desk calendar with the stack of round black cards on top, the round window showing the white number 24, the small OCTOBER label, the black base and the small red knob on its right side, on a warm peach surface. The calendar is heavy and stays completely still: same shape, colours, size and position; the printed 24 and OCTOBER never change. After a moment, one relaxed adult hand with natural skin and short clean nails enters slowly from the right edge, a fingertip gently touches and slightly turns the small red knob, then the hand withdraws out of frame. Soft natural sunlight drifts slowly across the surface. Very gentle camera push-in. Real-time pace, no slow motion. No new text, no new numbers, no logos, no jewellery, no other objects."
+}
